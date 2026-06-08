@@ -1,6 +1,6 @@
 .kef-clean-editor-hidebar {
   position: relative;
-  width: 100px;
+  width: 40px;
   height: 4px;
   border-radius: 6px;
   background-color: var(--orca-color-border);
